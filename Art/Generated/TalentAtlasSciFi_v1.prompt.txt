@@ -1,0 +1,9 @@
+Generated with the built-in image generation tool on 2026-11-04 for Space Flight.
+Format: 4 × 4 atlas; 16 dark-background, mature science-fiction ability illustrations.
+Row order: radar antenna, optical sensor, mining collector, rock crusher;
+laser emitter, aiming lens, heat exchanger, cryogenic loop;
+engine nozzle, attitude gyroscope, rare ore, isotope containment core;
+long-range antenna, ore analyser, laser resonator, spacecraft.
+Direction: readable silhouettes at small sizes, graphite metal and restrained
+bronze/cyan highlights, no baked-in UI frames, text, logos or characters.
+The generated source is preserved at its original 1254 × 1254 resolution.

@@ -1,0 +1,10 @@
+* text=auto
+
+# Unreal assets and source artwork must never undergo line-ending conversion.
+*.uasset binary
+*.umap binary
+*.png binary
+*.wav binary
+
+# The Windows launcher is intended for cmd.exe.
+*.bat text eol=crlf

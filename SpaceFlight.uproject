@@ -1,0 +1,9 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.8",
+  "Category": "Games",
+  "Description": "A quiet pixel-art flight through space.",
+  "Modules": [
+    { "Name": "SpaceFlight", "Type": "Runtime", "LoadingPhase": "Default" }
+  ]
+}

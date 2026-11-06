@@ -1,0 +1,15 @@
+Generated using the built-in image generation tool on 2026-11-04, with
+TalentAtlasSciFi_v1.png as a style reference. No external API was used.
+
+Prompt: Create a new 4 by 4 atlas for a science-fiction game UI in the
+reference image's mature industrial graphite, bronze and cyan style. Use a
+dark background, one centered object per cell, distinct small-scale silhouettes,
+and consistent three-quarter lighting. Exclude text, frames, scenery, watermarks
+and cartoon styling. Row-major subjects: phased-array radar; ore collector arm;
+horizon focusing lens; cryogenic heat exchanger; triple rocket thruster;
+spectral scanner antenna; mineral crusher; precision laser cutter; mineral
+analyzer; quantum crystal sensor; beam resonator; ore separator; cooling turbine;
+stabilizer gyroscope; harvesting drone; rare ore deposit with cyan veins.
+
+The original generated PNG is retained unchanged. The extra atlas is an
+additive resource; the first atlas and the older HUD atlas remain fallbacks.
