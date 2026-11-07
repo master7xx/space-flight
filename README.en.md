@@ -32,3 +32,5 @@ The game supports Russian, English, and Spanish. Press **L** to switch languages
 Install Unreal Engine 5.8 and a compatible Windows C++ toolchain. Open `SpaceFlight.uproject` in Unreal Editor and start the game, or set `UE_EDITOR` to the full path of `UnrealEditor.exe` and run `Play.bat`. Unreal assets are in `Content`; source art and audio are in `Art`.
 
 Saves and local settings stay on your computer and are excluded from the repository. C++ tests are in `Source/SpaceFlight`; audio-file tests require Python and NumPy.
+
+Project license: [MIT](LICENSE). Unreal Engine is subject to Epic Games' separate terms.
