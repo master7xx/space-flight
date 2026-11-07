@@ -1,36 +1,38 @@
 # Space Flight
 
-**Русский** · [English](README.en.md) · [Español](README.es.md)
+[Русский](README.ru.md) · **English** · [Español](README.es.md)
 
-Небольшая спокойная 2D-игра о полёте среди звёзд и астероидов. Лазеры добывают руду, корабль развивается в древовидной системе улучшений, а исследование открывает новые секторы, рейсы и редкие события. Можно управлять вручную или включить автопилот. Проект сделан **just for fun**.
+A small, peaceful 2D game about flying among stars and asteroids. Lasers mine ore, a branching upgrade tree improves your ship, and exploration unlocks sectors, expeditions, and rare encounters. Fly manually or let the autopilot take over. Made **just for fun**.
 
-В игре доступны русский, английский и испанский. Нажмите **L**, чтобы переключить язык; подсказка видна на экране. Выбор сохраняется отдельно от игрового прогресса.
+The game supports Russian, English, and Spanish. Press **L** to switch languages; an on-screen hint shows the key. The choice is saved separately from game progress.
 
-## Управление
+**Play on Windows x64:** download `SpaceFlight-Win64.exe` from the [latest release](https://github.com/master7xx/space-flight/releases/latest). The executable is unsigned, so Windows may display a security warning.
 
-| Клавиши | Действие |
+## Controls
+
+| Keys | Action |
 |---|---|
-| A / D или ← / → | Ручной полёт |
-| F | Автопилот |
-| Tab | Дерево улучшений |
-| Мышь | Купить улучшение; перетащить пустое место дерева или использовать среднюю / правую кнопку; колесо — масштаб |
-| G / T / B / R / J | Следующее улучшение / отслеживать / автопокупки / центр дерева / журнал |
-| X | Приоритет целей лазеров |
-| C | Сменить открытый сектор |
-| E | Рейсы и награды |
-| I / M / K | Переработка / фабрикатор / специализация; Enter — подтвердить, Esc — отменить |
-| H | Подробный интерфейс и подсказки |
+| A / D or ← / → | Manual flight |
+| F | Autopilot |
+| Tab | Upgrade tree |
+| Mouse | Buy an upgrade; drag empty tree space or use the middle / right button; wheel to zoom |
+| G / T / B / R / J | Next upgrade / track / auto-buy / center tree / journal |
+| X | Laser target priority |
+| C | Change unlocked sector |
+| E | Expeditions and rewards |
+| I / M / K | Refining / fabricator / specialization; Enter to confirm, Esc to cancel |
+| H | Detailed HUD and help |
 | L | Русский / English / Español |
-| − / + | Яркость звёзд |
-| Esc | Пауза или закрытие панели |
-| N, затем N на паузе | Начать новый полёт и сбросить прогресс |
-| P | Нагрузочный режим без сохранения прогресса |
-| Q | Выход |
+| − / + | Star brightness |
+| Esc | Pause or close a panel |
+| N, then N while paused | Start a new flight and reset progress |
+| P | Stress mode without saving progress |
+| Q | Quit |
 
-## Запуск и сборка
+## Running and building
 
-Нужны Unreal Engine 5.8 и совместимый набор средств разработки C++ для Windows. Откройте `SpaceFlight.uproject` в Unreal Editor и запустите игру, либо установите переменную `UE_EDITOR` с полным путём к `UnrealEditor.exe` и запустите `Play.bat`. Ресурсы Unreal находятся в `Content`, исходные изображения и звук — в `Art`.
+Install Unreal Engine 5.8 and a compatible Windows C++ toolchain. Open `SpaceFlight.uproject` in Unreal Editor and start the game, or set `UE_EDITOR` to the full path of `UnrealEditor.exe` and run `Play.bat`. Unreal assets are in `Content`; source art and audio are in `Art`.
 
-Сохранения и локальные настройки остаются на компьютере и не входят в репозиторий. Тесты исходного кода находятся в `Source/SpaceFlight`; для тестов звуковых файлов нужны Python и NumPy.
+Saves and local settings stay on your computer and are excluded from the repository. C++ tests are in `Source/SpaceFlight`; audio-file tests require Python and NumPy.
 
-Лицензия проекта: [MIT](LICENSE). Unreal Engine распространяется по отдельным условиям Epic Games.
+Project license: [MIT](LICENSE). Unreal Engine is subject to Epic Games' separate terms.

@@ -1,10 +1,12 @@
 # Space Flight
 
-[Русский](README.md) · [English](README.en.md) · **Español**
+[Русский](README.ru.md) · [English](README.md) · **Español**
 
 Un pequeño juego 2D tranquilo sobre volar entre estrellas y asteroides. Los láseres extraen mineral, un árbol de mejoras desarrolla la nave y la exploración desbloquea sectores, expediciones y encuentros poco frecuentes. Puedes pilotar manualmente o activar el piloto automático. Creado **just for fun**.
 
 El juego está disponible en ruso, inglés y español. Pulsa **L** para cambiar de idioma; la tecla aparece en pantalla. La elección se guarda por separado del progreso.
+
+**Jugar en Windows x64:** descarga `SpaceFlight-Win64.exe` de la [última versión](https://github.com/master7xx/space-flight/releases/latest). El ejecutable no está firmado y Windows puede mostrar una advertencia de seguridad.
 
 ## Controles
 
